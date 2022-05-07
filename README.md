@@ -13,7 +13,7 @@ The 4 maps presented are meant to focus on Washington state, but the map is deta
 
 #### Basemap
 This tileset will show you a monochrome map with dark font and some simplified landscape.
-<img src="/img/BasemapSS.png">
+<img src="/img/basemapss.png">
 
 #### Washington State Counties
 This tileset will show you the county lines of Washington state in bright red.
@@ -25,5 +25,5 @@ This tileset will show you both the Basemap and Washington State Counties at the
 
 #### Seattle Theme
 This tileset will show you a map that uses a color scheme based on Seattle.
-<img src="/img/SeattleThemeSS.png">
+<img src="/img/SeattleThemess.png">
 [*Click Here to View the Map!*](https://hudsop2.github.io/geo458mapdesignandtilegen)
